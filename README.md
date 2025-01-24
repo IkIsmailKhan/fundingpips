@@ -1,13 +1,8 @@
-Setup
+# LetsWork
 
-Clone the repo:
-git clone https://github.com/IkIsmailKhan/fundingpips.git
-cd fundingpips
-Install dependencies:
-npm install
-Run the app:
-npm start
-Testing
+## Commands to Run
 
-Run tests:
-npm test
+### git clone https://github.com/IkIsmailKhan/fundingpips
+### cd fundingpips
+### npm install
+### npm run dev
