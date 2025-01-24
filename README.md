@@ -1,4 +1,4 @@
-# LetsWork
+# Funding Pips
 
 ## Commands to Run
 
